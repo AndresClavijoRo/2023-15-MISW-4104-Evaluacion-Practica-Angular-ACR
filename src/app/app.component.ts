@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '2023-15-MISW-4104-Evaluacion-Practica-Angular-ACR';
+
 }
